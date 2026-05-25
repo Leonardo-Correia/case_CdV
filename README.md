@@ -15,7 +15,7 @@ Este repositório contém um notebook Jupyter para análise de dados de geraçã
     └── spes_casa_dos_ventos.csv
 ```
 
-> OBS - O caminho dos arquivo DEVEM ser ajustados de acordo com equipamento usado.
+> OBS - O caminho dos arquivo DEVEM ser ajustados de acordo com o caminho de pastas deseajado.
 
 ## Como executar
 
